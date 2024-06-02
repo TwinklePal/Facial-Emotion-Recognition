@@ -34,5 +34,5 @@ def predict():
             return render_template('index.html', prediction=emotion)
     return redirect(url_for('index'))
 
-if __name__ == '_main_':
+if __name__ == '__main__':
     app.run(debug=True)
