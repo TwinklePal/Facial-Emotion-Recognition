@@ -1,0 +1,7 @@
+numpy==1.26.4
+opencv-python==4.9.0.80
+tensorflow==2.16.1
+keras==3.3.3
+pands==2.2.2
+matplotlib ==3.8.2
+tqdm==4.66.1
